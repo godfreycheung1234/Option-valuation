@@ -2,4 +2,4 @@
 
 To save the learning process
 
-19/6/2025 : V1 public version, not much inside, tend to cover HW model calibration using python
+19/6/2025 : Current Goal: fit HW 1F using Swaption
