@@ -7,6 +7,7 @@ To save the learning process
 3/7/2025 : SABR model
 (Good introduction: https://www.youtube.com/watch?v=-C1C4XZHNxw)
 
+12/7/2025 : Credit model - JLT extended
 
 # References 
 1. Calibration Methods of Hull-White Model https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1514192
